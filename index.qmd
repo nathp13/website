@@ -1,0 +1,36 @@
+---
+title: "Paromita Nath"
+about:
+  template: jolla
+  image: Nath_22.jpg
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/paromitanath/
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=V-0DOzkAAAAJ&hl=en&inst=12320807419666651891
+---
+
+Paromita Nath specializes in uncertainty quantification, leveraging data and computational models to tackle complex challenges. Off the clock, she can be found wandering national parks, savoring new cuisines, or diving into the fictional world of Austen.
+
+## Education
+
+Ph.D., Civil Engineering | Vanderbilt University | Nashville, TN 
+
+M.S., Civil Engineering | Vanderbilt University | Nashville, TN 
+
+M.E., Civil Engineering - Structural Engineering | BITS, Pilani | India
+
+B.E., Civil Engineering | Assam Engineering College(Gauhati University) | India
+
+## Experience
+
+Rowan University | Assistant Professor | 2022 - present
+
+Vanderbilt University | Postdoctoral Scholar | 2020 - 2022
+
+Cyient | Senior Engineer | 2013 - 2013
+
+Tata Consulting Engineers | Engineer | 2008 - 2011
