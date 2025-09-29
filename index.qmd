@@ -1,5 +1,5 @@
 ---
-title: "Paromita Nath"
+title: "Paromita Nath, Ph.D."
 about:
   template: jolla
   image: Nath_22.jpg
