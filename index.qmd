@@ -13,7 +13,7 @@ about:
       href: https://scholar.google.com/citations?user=V-0DOzkAAAAJ&hl=en&inst=12320807419666651891
 ---
 
-Paromita Nath specializes in uncertainty quantification, leveraging data and computational models to tackle complex challenges. Off the clock, she can be found wandering national parks, savoring new cuisines, or diving into the fictional world of Austen.
+Dr. Nath specializes in uncertainty quantification, leveraging data and computational models to tackle complex challenges. Off the clock, she can be found wandering national parks, savoring new cuisines, or diving into the fictional world of Austen.
 
 ## Education
 
